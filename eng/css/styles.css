@@ -1440,7 +1440,9 @@ a:hover.back-to-top {
 	.header .image-container .img-wrapper {
 		position: absolute;
 		display: block;
-		width: 470px;
+		 padding-left: 150px;
+		 padding-top: 120px;
+		transform: rotate(8deg);
 	}
 
 	.header-frame {
