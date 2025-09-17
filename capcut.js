@@ -14,7 +14,7 @@ obj= {
     },
     "management_url" : null,
     "subscriptions" : {
-      "com.Yooshr.infltr.subscriptionPremium.Yearly" : {
+      "com.capcut.pro.yearly" : {
         "is_sandbox" : false,
         "period_type" : "normal",
         "billing_issues_detected_at" : null,
@@ -26,9 +26,9 @@ obj= {
       }
     },
     "entitlements" : {
-      "com.Yooshr.infltr.subscriptionPremium" : {
+      "com.capcut.pro.yearly" : {
         "expires_date" : "2030-02-18T07:52:54Z",
-        "product_identifier" : "com.Yooshr.infltr.subscriptionPremium.Yearly",
+        "product_identifier" : "com.capcut.pro.yearly",
         "purchase_date" : "2020-02-11T07:52:54Z"
       }
     },
